@@ -1,4 +1,10 @@
 <div align="center">
+<img src="./boot-and-terminal.svg" alt="Raspberry Pi boot and terminal session" width="100%">
+</div>
+
+<br><br>
+
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&color=00FFFF&size=35&center=true&vCenter=true&width=800&height=80&lines=Bhavani+Lokesh;Embedded+Systems+%7C+IoT;Building+Toward+Robotics" alt="Typing Header">
 </div>  
 
@@ -12,12 +18,6 @@
   <a href="mailto:lokesh.bxa14@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFFF">
   </a>
-</div>
-
-<br><br>
-
-<div align="center">
-<img src="./boot-and-terminal.svg" alt="Raspberry Pi boot and terminal session" width="700">
 </div>
 
 <br><br>
